@@ -72,5 +72,5 @@ Middle button: ON/OFF. hold 5 seconds to turn off (deepsleep mode). Wheel connec
 Right button: light ON/OFF.
 
 Happy ride!
-
+Subscribe to my channel: https://www.youtube.com/@OIGLabs
 
