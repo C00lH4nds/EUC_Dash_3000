@@ -2,7 +2,7 @@
 ESP32 based dashboard for BEGODE EUC
 
 Works on Begode EUCs, tested only on Begode A2
-Displays: current speed, wheel battery percentage, temperature, distance, onboard battery level
+Displays: current speed, wheel battery percentage, temperature, distance, onboard battery level, light status, connexion status.
 
 <img width="779" height="606" alt="Capture d&#39;écran 2026-02-22 011819" src="https://github.com/user-attachments/assets/3cdc9a74-6ed2-4ecc-914f-8bca851ac941" />
 
@@ -66,6 +66,10 @@ Glue the screen protector to system case cover with neoprene glue. Make sure it 
 Mount everytinhg, put the glove on, gently heat the honeycomb part with a heatgun and bend the button box so it rests on the top of your thumb joint (it is always better than printing with supports!)
 
 Battery goes below the top strap. Don't set it too tight.
+
+Left button: double beep
+Middle button: ON/OFF. hold 5 seconds to turn off (deepsleep mode). Wheel connection is automatic at startup or if connexion is lost
+Right button: light ON/OFF
 
 Enjoy!
 
