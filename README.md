@@ -51,6 +51,7 @@ Component placement:
 <img width="385" height="708" alt="Capture d&#39;écran 2026-02-22 011713" src="https://github.com/user-attachments/assets/42d928d9-f906-40f7-83e1-04fdcfa4c8f1" />
 
 All components should lock in place. OLED screen uses four optional screws with printed washers.
+Clip the two bottom pins of the switches.
 
 Printed case:
 
