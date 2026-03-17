@@ -1,7 +1,8 @@
 # EUC_Dash_3000
 ESP32 based dashboard for BEGODE EUC.
 
-Works only on Begode EUCs, tested only on Begode A2
+WARNING: Works only with Begode A2!
+
 Displays: current speed, wheel battery percentage, temperature, distance, onboard battery level, light status, connexion status.
 
 <img width="779" height="606" alt="Capture d&#39;écran 2026-02-22 011819" src="https://github.com/user-attachments/assets/3cdc9a74-6ed2-4ecc-914f-8bca851ac941" />
